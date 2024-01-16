@@ -33,7 +33,6 @@ header {
     border: 20px;
 }
 
-
 #navbar {
     display: grid;
     grid-template: 100% / 20% 80%;
